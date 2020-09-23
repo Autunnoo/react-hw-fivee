@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hw-fivee/static/css/main.55deca55.chunk.css",
+    "main.js": "/react-hw-fivee/static/js/main.8093d560.chunk.js",
+    "main.js.map": "/react-hw-fivee/static/js/main.8093d560.chunk.js.map",
+    "runtime-main.js": "/react-hw-fivee/static/js/runtime-main.41504894.js",
+    "runtime-main.js.map": "/react-hw-fivee/static/js/runtime-main.41504894.js.map",
+    "static/js/2.fde232f3.chunk.js": "/react-hw-fivee/static/js/2.fde232f3.chunk.js",
+    "static/js/2.fde232f3.chunk.js.map": "/react-hw-fivee/static/js/2.fde232f3.chunk.js.map",
+    "index.html": "/react-hw-fivee/index.html",
+    "precache-manifest.a371a6e7f70b557f0977cf34360c7672.js": "/react-hw-fivee/precache-manifest.a371a6e7f70b557f0977cf34360c7672.js",
+    "service-worker.js": "/react-hw-fivee/service-worker.js",
+    "static/css/main.55deca55.chunk.css.map": "/react-hw-fivee/static/css/main.55deca55.chunk.css.map",
+    "static/js/2.fde232f3.chunk.js.LICENSE.txt": "/react-hw-fivee/static/js/2.fde232f3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41504894.js",
+    "static/js/2.fde232f3.chunk.js",
+    "static/css/main.55deca55.chunk.css",
+    "static/js/main.8093d560.chunk.js"
+  ]
+}
